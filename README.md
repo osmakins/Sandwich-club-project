@@ -15,7 +15,7 @@ me to better understand how it is processed.
 - Practice JSON parsing to a model object
 - Design an activity layout
 - Populate all fields in the layout accordingly
-- Using butterknife to bind view in place of #findViewById
+- Reducing view boilerplate with the butterknife library
 
 ## How to Complete this Project?
 Instructions:
